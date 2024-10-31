@@ -1,0 +1,12 @@
+venv/
+env/
+media/
+static/
+postgres-data/
+.env
+
+__pycache__/
+.DS_Store
+.idea
+
+.pytest_cache
